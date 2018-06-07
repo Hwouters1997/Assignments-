@@ -12,3 +12,5 @@ This respository contains my assignments
  [Graded-Assignment 2](https://github.com/Hwouters1997/Assignments-/blob/master/Graded_assignment_2%20(1).ipynb)
  
  [Final Assignment R](https://github.com/Hwouters1997/Assignments-/blob/master/Exam_student%20(1).ipynb)
+ 
+ [Final Assignment Python](https://github.com/Hwouters1997/Assignments-/blob/master/exam_june_7_2018-checkpoint.ipynb)
